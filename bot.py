@@ -1,6 +1,5 @@
 import telebot
 import config
-import pytelegramBotAPI
 from itertools import groupby
 
 
